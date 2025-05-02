@@ -1,10 +1,18 @@
 <div align="center">
 
-# 🕹️ ¡Bienvenido a Mi Arcade! 🕹️
+# 🕹️ ¡Bienvenido! 🕹️
 
 <div style="background: linear-gradient(45deg, #ff00ff, #00ffff);">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&color=0CE82B&background=000000&center=true&vCenter=true&width=450&lines=PLAYER+1+START;PRESS+START;GAME+LOADING..." alt="Typing SVG" />
 </div>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=juanmenaz&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
 
 ---
 
@@ -25,9 +33,9 @@
 
 |    SKILL    |   NIVEL    |
 | :---------: | :--------: |
-|  💻 Coding  | ████████░░ |
-|  🎨 Design  | ███████░░░ |
-| 🤝 Teamwork | █████████░ |
+|  💻 Coding  | ██████████ |
+|  🎨 Design  | ██████████ |
+| 🤝 Teamwork | ██████████ |
 | 🚀 Learning | ██████████ |
 
 ---
@@ -73,4 +81,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
-
