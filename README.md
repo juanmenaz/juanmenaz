@@ -24,6 +24,7 @@
 ║  experiencias únicas a través del    ║
 ║  código. ¡Siempre listo para un      ║
 ║  nuevo desafío!                      ║
+║   "SweetCode9"                       ║
 ╚══════════════════════════════════════╝
 ```
 
@@ -50,9 +51,9 @@
 
 ```ascii
 ┌──────────────────────────┐
-│  🎯 Proyecto 1           │
-│  🎯 Proyecto 2           │
-│  🎯 Proyecto 3           │
+│  🎯 lore sekai studio    │
+│  🎯 cataloGO APP         │
+│  🎯 hisrory forge        │
 └──────────────────────────┘
 ```
 
